@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com//Keerththansana-Sutharsan/Keerththansana-Sutharsan)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com//Keerththansana-Sutharsan/Keerththansana-Sutharsan/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   ![snake gif](https://github.com/Keerththansana-Sutharsan/Keerththansana-Sutharsan/blob/output/github-contribution-grid-snake.gif) 
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   
   <br/><br/><br/>
 </div>
